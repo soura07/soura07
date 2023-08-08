@@ -69,10 +69,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=unicornjohn&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=unicornjohn&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=unicornjohn&limit=5&theme=algolia&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=unicornjohn&limit=5&theme=algolia&combine_all_yearly_contributions=true) <br>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=soura07&bg_color=000000&color=ffffff&line=28f040&point=ebeaea&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=unicornjohn&bg_color=000000&color=e6e6e6&line=a6ff00&point=fffafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ### 🎧 Currently Playing
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31fujcn7pz32lgyjlxlbawfi4hwm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile"width="30" )

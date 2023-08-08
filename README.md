@@ -65,11 +65,12 @@
 <br>
   
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=unicornjohn&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=unicornjohn&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=unicornjohn&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=soura07&theme=yeblu&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=soura07&theme=yeblu&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=soura07&theme=yeblu&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=unicornjohn&limit=5&theme=algolia&combine_all_yearly_contributions=true) <br>
+![](https://github-contributor-stats.vercel.app/api?username=soura07&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=soura07&bg_color=000000&color=ffffff&line=28f040&point=ebeaea&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---

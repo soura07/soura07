@@ -79,8 +79,9 @@
 ### 🎧 Currently Playing
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31fujcn7pz32lgyjlxlbawfi4hwm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile"width="30" )
 
-  ## 💰 You can help me by Donating
+
+ ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/unicornjohn) 
 
-  
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=EDFF37&width=435&lines=Thanks+for+Visiting+My++Profile)](https://git.io/typing-svg) 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -64,7 +64,7 @@
 <br>
 <br>
   
-### 📊 GitHub Stats:
+### 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=soura07&theme=yeblu&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=soura07&theme=yeblu&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=soura07&theme=yeblu&hide_border=false&include_all_commits=true&count_private=true&layout=compact)

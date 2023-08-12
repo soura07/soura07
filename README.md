@@ -6,7 +6,7 @@
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
 
-🌱 **About myself**<br>
+### About myself: 🌱 <br>
 
 - I am **Souradeep Ghosh**, currently pursuing my bachelors from NiT Kolkata, West Bengal, in *Electronics and Communications Engineering*. <br>
 

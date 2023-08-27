@@ -8,15 +8,14 @@
 
 ### About myself: 🌱 <br>
 
-- I am **Souradeep Ghosh**, currently pursuing my bachelors from NiT Kolkata, West Bengal, in *Electronics and Communications Engineering*. <br>
+- I am **Souradeep Ghosh**, currently pursuing my bachelor's from NiT Kolkata, West Bengal, in *Electronics and Communications Engineering*. <br>
 
-- I am interested in development and have contributed to some open-source organizations. I also enjoy doing competitive programming. <br>
+- I am interested in development and have contributed to some open-source organizations. I also enjoy solving DSA problems on various platforms such as Leetcode, and GFG. <br>
 
-- I have experience in FULL stack web development .<br>
+- I have experience in Mern Stack Development and am also interested in participating in Hackathons .<br>
 
 - In my 2nd year I have done some internships there are **@E-Cell-IIT Kanpur**, **@Coding Ninja** as a Campus Ambassador, **@Oyesis Infobyte**, and **@CodeClause**, and 5+ more companies as a Full Stack Web Developer Intern. <br>
-- Currently, in my 3rd year, I practice DSA Problems on the platform of Leetcode, Coding Ninjas and gfg, and also participate in contests on CodeChef, Codeforces, Leetcode and GFG.
-
+- Currently, in my 3rd year, I practice DSA Problems and am also doing open source contributions.
 
 
 <img align="right" alt="Coding" width="500" src="https://i.ytimg.com/vi/PY8f1Z3nARo/maxresdefault.jpg"/>
@@ -81,8 +80,8 @@
 ---
 
 
-### 🎧 Currently Playing
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31fujcn7pz32lgyjlxlbawfi4hwm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile"width="30" )
+<!---### 🎧 Currently Playing
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31fujcn7pz32lgyjlxlbawfi4hwm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile"width="30" )--->
 
 
  ## 💰 You can help me by Donating

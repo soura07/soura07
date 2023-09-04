@@ -15,7 +15,7 @@
 - I have experience in Mern Stack Development and am also interested in participating in Hackathons .<br>
 
 - In my 2nd year I have done some internships there are **@E-Cell-IIT Kanpur**, **@Coding Ninja** as a Campus Ambassador, **@Oyesis Infobyte**, and **@CodeClause**, and 5+ more companies as a Full Stack Web Developer Intern. <br>
-- Currently, in my 3rd year, I practice DSA Problems and am also making open source contributions.
+- Currently, in my 3rd year, I practice DSA Problems and am also doing open-source contributions.
 
 
 <img align="right" alt="Coding" width="500" src="https://i.ytimg.com/vi/PY8f1Z3nARo/maxresdefault.jpg"/>

@@ -89,3 +89,4 @@
 
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=EDFF37&width=435&lines=Thanks+for+Visiting+My++Profile)](https://git.io/typing-svg) 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![An image of @unicornjohn's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/unicornjohn)](https://holopin.io/@unicornjohn)

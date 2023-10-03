@@ -1,17 +1,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=3BF7F5&width=446&height=61&lines=Hey+Souradeep+Here+%F0%9F%A4%9F%F0%9F%8F%BB;Welcome+to+my+Profile+%F0%9F%98%8E+;Show+some+%E2%9D%A4%EF%B8%8F+and++%E2%AD%90)](https://git.io/typing-svg)
 
-
-
 ### About myself: 🌱 <br>
 
-- I am **Souradeep Ghosh**, currently pursuing my bachelor's from West Bengal,India in *Electronics and Communications Engineering*. <br>
+- I am **Souradeep Ghosh**, currently pursuing my bachelor's from West Bengal, India in *Electronics and Communications Engineering*. <br>
 
 - I am interested in development and have contributed to some open-source organizations. I also enjoy solving DSA problems on various platforms such as Leetcode, and GFG. <br>
 
 - I have experience in Mern Stack Development and am also interested in participating in Hackathons .<br>
 
 - In my 2nd year I have done some internships there are **@E-Cell-IIT Kanpur**, **@Coding Ninja** as a Campus Ambassador, **@Oyesis Infobyte**, and **@CodeClause**, and 5+ more companies as a Full Stack Web Developer Intern. <br>
-- Currently, in my 3rd year, I practice DSA Problems and am also doing open-source contributions.
+- Currently, in my 3rd year, I practice DSA Problems and am also  open-source contributions.
 
 
 <img align="right" alt="Coding" width="500" src="https://i.ytimg.com/vi/PY8f1Z3nARo/maxresdefault.jpg"/>

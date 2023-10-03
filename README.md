@@ -4,7 +4,7 @@
 
 ### About myself: 🌱 <br>
 
-- I am **Souradeep Ghosh**, currently pursuing my bachelor's from NiT Kolkata, West Bengal, in *Electronics and Communications Engineering*. <br>
+- I am **Souradeep Ghosh**, currently pursuing my bachelor's from West Bengal,India in *Electronics and Communications Engineering*. <br>
 
 - I am interested in development and have contributed to some open-source organizations. I also enjoy solving DSA problems on various platforms such as Leetcode, and GFG. <br>
 

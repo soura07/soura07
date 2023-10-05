@@ -60,8 +60,16 @@
 
 
 <br>
+
+###  Database:
+
+
+<img align="left" alt="html" width="40px" src="https://images.crunchbase.com/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/erkxwhl1gd48xfhe2yld" />
+<img align="left" alt="html" width="50px" src="https://res.cloudinary.com/hevo/image/upload/f_auto,q_auto/v1685922408/hevo-learn-1/tableau-oracle-connection-2.png?_i=AA" />
+
 <br>
-  
+<br>
+
 ### 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=soura07&theme=yeblu&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=soura07&theme=yeblu&hide_border=false)<br/>

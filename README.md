@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=3BF7F5&width=446&height=61&lines=Hey+Souradeep+Here+%F0%9F%A4%9F%F0%9F%8F%BB;Welcome+to+my+Profile+%F0%9F%98%8E+;Show+some+%E2%9D%A4%EF%B8%8F+and++%E2%AD%90)](https://git.io/typing-svg)
 
-### About myself: 🌱 <br>
+### About myself:  <br>
 
 - I am **Souradeep Ghosh**, currently pursuing my bachelor's from West Bengal, India in *Electronics and Communications Engineering*. <br>
 

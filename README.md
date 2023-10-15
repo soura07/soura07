@@ -2,7 +2,7 @@
 
 ### About Myself: 🌱  <br>
 
-- I am **Souradeep Ghosh**, currently pursuing my B from West Bengal, India in *Electronics and Communications Engineering*. <br>
+- I am **Souradeep Ghosh**, currently pursuing my B.Tech from West Bengal, India in *Electronics and Communications Engineering*. <br>
 
 - I am interested in development and have contributed to some open-source organizations. I also enjoy solving DSA problems on various platforms such as Leetcode, and GFG. <br>
 

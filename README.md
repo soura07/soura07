@@ -11,7 +11,7 @@
 - In my 2nd year I have done some internships there are **@E-Cell-IIT Kanpur**, **@Coding Ninja** as a Campus Ambassador, **@Oyesis Infobyte**, and **@CodeClause**, and 5+ more companies as a Full Stack Web Developer Intern. <br>
 
 
-<img align="right" alt="Coding" width="500" src="https://i.ytimg.com/vi/PY8f1Z3nARo/maxresdefault.jpg"/>
+<!--<img align="right" alt="Coding" width="500" src="https://i.ytimg.com/vi/PY8f1Z3nARo/maxresdefault.jpg"/> -->
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 

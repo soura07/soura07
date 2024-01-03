@@ -93,6 +93,11 @@
  ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/unicornjohn) 
 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=EDFF37&width=435&lines=Thanks+for+Visiting+My++Profile)](https://git.io/typing-svg) 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&pause=1000&color=1581F7&random=false&width=435&lines=Thanks+for+Visiting+%E2%9D%A4%EF%B8%8F%F0%9F%AB%B6;Visit+Again+%F0%9F%A4%9E%F0%9F%98%89" alt="Typing SVG"" />
+  </a>
+</p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 [![An image of @unicornjohn's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/unicornjohn)](https://holopin.io/@unicornjohn)

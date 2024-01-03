@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=3BF7F5&width=446&height=61&lines=Hey+Souradeep+Here+%F0%9F%A4%9F%F0%9F%8F%BB;Welcome+to+my+Profile+%F0%9F%98%8E+;Show+some+%E2%9D%A4%EF%B8%8F+and++%E2%AD%90)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=29&pause=1001&color=FF461B&random=false&width=435&lines=Hey+Souradeep+Here+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F;Welcome+to+my+Profile+%F0%9F%99%8F;Show+Some+%E2%9D%A4%EF%B8%8F+and+%E2%AD%90)](https://git.io/typing-svg)
 
 ### About myself: 🌱  <br>
 

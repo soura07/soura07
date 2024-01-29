@@ -59,8 +59,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soura07&theme=algolia)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=soura07&bg_color=240015&color=ffffff&line=00eeff&point=e2fe10&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
----
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=soura07&bg_color=001166&color=66fff5&line=00bfff&point=00fbff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!---### 🎧 Currently Playing

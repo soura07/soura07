@@ -6,7 +6,7 @@
 
 
 
-### About myself: 🌱  <br>
+# About myself: 🌱  <br>
 
 - I am **Souradeep Ghosh**, currently pursuing my B.Tech from West Bengal, India in *Electronics and Communications Engineering*. <br>
 
@@ -21,10 +21,7 @@
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
-
-### Connect with me:
-
-
+# 🌐 Socials and Coding Profiles:
 
 <p align="left">
 <a href="https://twitter.com/Souradeep_2003_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/souradeep_2003_" height="30" width="40" /></a>
@@ -41,32 +38,12 @@
 
 
 
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="c++" width="30px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
-<img align="left" alt="python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" />
-<img align="left" alt="html" width="26px" src="https://cdnlogo.com/logos/h/84/html.svg" />
-<img align="left" alt="js" width="30px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" />
-<img align="left" alt="html" width="30px" src="https://logospng.org/download/css-3/logo-css-3-2048.png" />
+# 💻 Tech Stack:
+[![My Skills](https://skillicons.dev/icons?i=py,gcp,c,cpp,nodejs,html,css,js,git,github,vscode)](https://skillicons.dev)
 
 
-<br>
 
-
-###  Frameworks and Libraries:
-
-
-<img align="left" alt="html" width="30px" src="https://res.cloudinary.com/arcjet-media/image/upload/v1608734952/z8hzeszc9eb3sp3vp3qc.jpg" />
-
-<img align="left" alt="html" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />
-<img align="left" alt="html" width="30px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" />
-<img align="left" alt="html" width="30px" src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" />
-
-
-<br>
-
-###  Database:
+#  Database:
 
 
 <img align="left" alt="html" width="40px" src="https://images.crunchbase.com/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/erkxwhl1gd48xfhe2yld" />
@@ -75,13 +52,12 @@
 <br>
 <br>
 
-### 📊 GitHub Stats
+# 📊 GitHub Stats
 [![souradeep20's GitHub | Stats](https://stats.quine.sh/souradeep20/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=souradeep20)
-[![souradeep20's GitHub | Dependencies](https://stats.quine.sh/souradeep20/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=souradeep20)
-![](https://github-readme-streak-stats.herokuapp.com/?user=soura07&theme=yeblu&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=soura07&theme=yeblu&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=soura07&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=soura07&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soura07&theme=algolia)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soura07&theme=algolia)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=soura07&bg_color=240015&color=ffffff&line=00eeff&point=e2fe10&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---

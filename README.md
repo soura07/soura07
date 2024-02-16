@@ -4,8 +4,6 @@
   </a>
 </p>
 
-
-
 # About myself: 🌱  <br>
 
 - I am **Souradeep Ghosh**, currently pursuing my B.Tech from West Bengal, India in *Electronics and Communications Engineering*. <br>
@@ -20,7 +18,8 @@
 <!--<img align="right" alt="Coding" width="500" src="https://i.ytimg.com/vi/PY8f1Z3nARo/maxresdefault.jpg"/> -->
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
-
+# Resume ⭐
+You can find my resume [Click Here](https://drive.google.com/file/d/1tgfa_pLQlgcwFhsSjO3RsaR3_6iNpCFw/view?usp=sharing).
 # 🌐 Socials and Coding Profiles:
 
 <p align="left">

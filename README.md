@@ -20,7 +20,8 @@
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 # Resume ⭐
 You can find my resume [Click Here](https://drive.google.com/file/d/1tgfa_pLQlgcwFhsSjO3RsaR3_6iNpCFw/view?usp=sharing).
-# 🌐 Socials and Coding Profiles:
+<!--# 🌐 Socials and Coding Profiles: -->
+# 🌐 Socials :
 
 <p align="left">
 <a href="https://twitter.com/Souradeep_2003_" target="blank"><img align="center" src="https://img.freepik.com/premium-vector/new-twitter-logo-x-2023-twitter-x-logo-vector-download_691560-10809.jpg" alt="https://twitter.com/souradeep_2003_" height="40" width="40" /></a>
@@ -37,7 +38,7 @@ You can find my resume [Click Here](https://drive.google.com/file/d/1tgfa_pLQlgc
 
 
 
-# 💻 Tech Stack:
+# 💻 I Know and Used:
 [![My Skills](https://skillicons.dev/icons?i=py,gcp,c,cpp,nodejs,html,css,js,git,github,vscode)](https://skillicons.dev)
 
 

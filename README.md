@@ -42,7 +42,7 @@ You can find my resume [Click Here](https://drive.google.com/file/d/1tgfa_pLQlgc
 
 
 
-#  Database:
+#  🤜🤛 Database:
 
 
 <img align="left" alt="html" width="40px" src="https://images.crunchbase.com/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/erkxwhl1gd48xfhe2yld" />
@@ -51,7 +51,7 @@ You can find my resume [Click Here](https://drive.google.com/file/d/1tgfa_pLQlgc
 <br>
 <br>
 
-#  Leetcode:
+#  Leetcode 🐥:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/souradeep_ghosh?theme=dark&font=IBM%20Plex%20Mono&ext=heatmap)
 
 # 📊 GitHub Stats

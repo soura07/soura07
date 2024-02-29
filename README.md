@@ -18,8 +18,9 @@
 <!--<img align="right" alt="Coding" width="500" src="https://i.ytimg.com/vi/PY8f1Z3nARo/maxresdefault.jpg"/> -->
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+<!-- 
 # Resume ⭐
-You can find my resume [Click Here](https://drive.google.com/file/d/1tgfa_pLQlgcwFhsSjO3RsaR3_6iNpCFw/view?usp=sharing).
+You can find my resume [Click Here](https://drive.google.com/file/d/1tgfa_pLQlgcwFhsSjO3RsaR3_6iNpCFw/view?usp=sharing).-->
 <!--# 🌐 Socials and Coding Profiles: -->
 # 🌐 Socials :
 
@@ -51,9 +52,9 @@ You can find my resume [Click Here](https://drive.google.com/file/d/1tgfa_pLQlgc
 
 <br>
 <br>
-
+<!-- 
 #  Leetcode 🐥:
-[![](https://leetcard.jacoblin.cool/souradeep_ghosh?theme=dark&font=IBM%20Plex%20Mono&ext=heatmap)](https://leetcode.com/souradeep_ghosh/)
+[![](https://leetcard.jacoblin.cool/souradeep_ghosh?theme=dark&font=IBM%20Plex%20Mono&ext=heatmap)](https://leetcode.com/souradeep_ghosh/)-->
 
 # 📊 GitHub Stats
 [![souradeep20's GitHub | Stats](https://stats.quine.sh/souradeep20/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=souradeep20)

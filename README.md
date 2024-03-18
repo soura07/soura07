@@ -39,7 +39,7 @@ You can find my resume [Click Here](https://drive.google.com/file/d/1tgfa_pLQlgc
 
 
 
-# 💻 I Know and Used:
+# Tools I Used Most💻 :
 [![My Skills](https://skillicons.dev/icons?i=py,gcp,c,cpp,nodejs,html,css,js,git,github,vscode)](https://skillicons.dev)
 
 
@@ -53,13 +53,12 @@ You can find my resume [Click Here](https://drive.google.com/file/d/1tgfa_pLQlgc
 <br>
 <br>
 
-<p align="center">
+
   
-#  Leetcode 🐥:
+<!--#  Leetcode 🐥:
 [![](https://leetcard.jacoblin.cool/souradeep_ghosh?theme=dark&font=IBM%20Plex%20Mono&ext=heatmap)](https://leetcode.com/souradeep_ghosh/) 
-</p>
 
-
+-->
 # 📊 GitHub Stats
 [![souradeep20's GitHub | Stats](https://stats.quine.sh/souradeep20/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=souradeep20)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=soura07&theme=algolia)

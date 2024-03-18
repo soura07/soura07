@@ -28,7 +28,7 @@ You can find my resume [Click Here](https://drive.google.com/file/d/1tgfa_pLQlgc
 <a href="https://twitter.com/Souradeep_2003_" target="blank"><img align="center" src="https://img.freepik.com/premium-vector/new-twitter-logo-x-2023-twitter-x-logo-vector-download_691560-10809.jpg" alt="https://twitter.com/souradeep_2003_" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/souradeep-ghosh-41b8b5228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[https://www.linkedin.com/in/souradeep-ghosh-41b8b5228/](https://www.linkedin.com/in/souradeep-ghosh-41b8b5228/)" height="30" width="40" /></a>
 <!-- <a href="https://www.hackerrank.com/nitsouradeep2022?hr_r=1" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="[https://www.linkedin.com/in/souradeep-ghosh-41b8b5228/](https://www.linkedin.com/in/souradeep-ghosh-41b8b5228/)" height="40" width="40" /></a> -->
-<!--  <a href="https://leetcode.com/John_07/" target="blank"><img align="center" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="[https://www.linkedin.com/in/souradeep-ghosh-41b8b5228/](https://www.linkedin.com/in/souradeep-ghosh-41b8b5228/)"  width="30" /></a> -->
+<!--  <a href="https://leetcode.com/John_07/" target="blank"><img align="center" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="[https://www.linkedin.com/in/souradeep-ghosh-41b8b5228/](https://www.linkedin.com/in/souradeep-ghosh-41b8b5228/)"  width="30" /></a> 
 <!--  <a href="https://auth.geeksforgeeks.org/user/souradeep_4n4/practice" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" alt="[https://www.linkedin.com/in/souradeep-ghosh-41b8b5228/](https://www.linkedin.com/in/souradeep-ghosh-41b8b5228/)"  width="30" /></a> -->
 
 
@@ -52,9 +52,13 @@ You can find my resume [Click Here](https://drive.google.com/file/d/1tgfa_pLQlgc
 
 <br>
 <br>
-<!--
+
+<p align="center">
+  
 #  Leetcode 🐥:
-[![](https://leetcard.jacoblin.cool/souradeep_ghosh?theme=dark&font=IBM%20Plex%20Mono&ext=heatmap)](https://leetcode.com/souradeep_ghosh/) -->
+[![](https://leetcard.jacoblin.cool/souradeep_ghosh?theme=dark&font=IBM%20Plex%20Mono&ext=heatmap)](https://leetcode.com/souradeep_ghosh/) 
+</p>
+
 
 # 📊 GitHub Stats
 [![souradeep20's GitHub | Stats](https://stats.quine.sh/souradeep20/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=souradeep20)

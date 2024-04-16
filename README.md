@@ -22,9 +22,9 @@
 <!--<img align="right" alt="Coding" width="500" src="https://i.ytimg.com/vi/PY8f1Z3nARo/maxresdefault.jpg"/> -->
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
-<!-- 
+
 # Resume ⭐
-You can find my resume [Click Here](https://drive.google.com/file/d/1tgfa_pLQlgcwFhsSjO3RsaR3_6iNpCFw/view?usp=sharing).-->
+You can find my resume [Click Here](https://drive.google.com/file/d/1vkt1iDkQfp1r2D8fs4i3vmmi2hC-rdhV/view?usp=sharing).
 <!--# 🌐 Socials and Coding Profiles: -->
 # 🌐 Socials :
 

@@ -23,8 +23,6 @@
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
-# Resume ⭐
-## You can find my resume  (Last Updated Dec 2023) [Click Here](https://drive.google.com/file/d/1Q5XVAwdsTeShOIrRndqjXz1NL8zeL63T/view?usp=sharing).
 <!--# 🌐 Socials and Coding Profiles: -->
 # 🌐 Socials :
 

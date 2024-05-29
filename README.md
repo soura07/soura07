@@ -1,5 +1,12 @@
 ![april banner](https://github.com/soura07/soura07/assets/116977697/d0a3f787-8311-414b-92c5-fa239dfe0af7)
 
+<div align="center">
+  <a href="https://app.daily.dev/soura07">
+    <img src="https://api.daily.dev/devcards/v2/AbsPnXWZj6uvIFNaT7iO0.png?type=default&r=x95" width="356" alt="Souradeep Ghosh's Dev Card"/>
+  </a>
+</div>
+
+
 
 
 <p align="center">

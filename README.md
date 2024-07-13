@@ -1,4 +1,4 @@
-![april banner](https://github.com/soura07/soura07/assets/116977697/d0a3f787-8311-414b-92c5-fa239dfe0af7)
+![SOURADEEP GHOSH (1)](https://github.com/user-attachments/assets/7b627853-1177-4b69-bf81-e6bedcc620ae)
 
 <div align="center">
   <a href="https://app.daily.dev/soura07">

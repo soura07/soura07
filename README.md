@@ -1,10 +1,6 @@
 
-<div align="center">
-  <a href="https://app.daily.dev/soura07">
-    <img src="https://api.daily.dev/devcards/v2/AbsPnXWZj6uvIFNaT7iO0.png?type=default&r=x95" width="356" alt="Souradeep Ghosh's Dev Card"/>
-  </a>
-</div>
 
+![SOURADEEP GHOSH (2)](https://github.com/user-attachments/assets/bf6b172e-fb9a-49aa-8dc9-2ad03c58d0fe)
 
 
 

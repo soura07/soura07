@@ -1,3 +1,4 @@
+![Profile Views](https://komarev.com/ghpvc/?username=soura07&label=Profile%20views&color=0e75b6&style=flat)
 
 
 ![SOURADEEP GHOSH (2)](https://github.com/user-attachments/assets/bf6b172e-fb9a-49aa-8dc9-2ad03c58d0fe)
@@ -38,7 +39,8 @@
 
 
 <p>
-  
+
+
 
 
 
@@ -65,8 +67,7 @@
 -->
 # 📊 GitHub Stats
 [![souradeep20's GitHub | Stats](https://stats.quine.sh/souradeep20/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=souradeep20)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=soura07&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soura07&theme=algolia)
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soura07&theme=algolia)
 

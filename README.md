@@ -1,7 +1,6 @@
-![Profile Views](https://komarev.com/ghpvc/?username=soura07&label=Profile%20views&color=0e75b6&style=flat)
+![SOURADEEP GHOSH ()](https://github.com/user-attachments/assets/fe30a738-3702-4ee1-a6de-a199d2d4b729)
 
 
-![SOURADEEP GHOSH (2)](https://github.com/user-attachments/assets/bf6b172e-fb9a-49aa-8dc9-2ad03c58d0fe)
 
 
 

@@ -58,14 +58,14 @@
 <br>
 
 
-  
+<!--  
 #  Leetcode 💻:
 <div align="center">
   <a href="https://leetcode.com/souradeep_ghosh/">
     <img src="https://leetcard.jacoblin.cool/souradeep_ghosh?theme=dark&font=IBM%20Plex%20Mono&ext=heatmap" alt="LeetCard" />
   </a>
 </div>
-
+-->
 # 📊 GitHub Stats
 
 [![souradeep20's GitHub | Stats](https://stats.quine.sh/souradeep20/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=souradeep20)

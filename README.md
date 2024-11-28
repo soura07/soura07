@@ -10,15 +10,22 @@
   </a>
 </p>
 
-# About myself: 🌱  <br>
 
-- I am Souradeep Ghosh, currently pursuing my B.Tech from West Bengal, India in Electronics and Communications Engineering. <br>
+# 🌟 About Me 🌟  
 
-- I am interested in development and have contributed to some open-source organizations. I also enjoy solving DSA problems on various platforms such as Leetcode, and GFG. <br>
+👋 Hi, I'm **Souradeep Ghosh**, an ambitious final-year **B.Tech student** specializing in **Electronics and Communications Engineering (ECE)** from **West Bengal, India**. 🚀  
 
-- I have experience in Mern Stack Development and am also interested in participating in Hackathons .<br>
+## ✨ What I Do  
 
-- In my 2nd year I have done some internships there are @E-Cell-IIT Kanpur, @Coding Ninja as a Campus Ambassador, @Oyesis Infobyte, and @CodeClause, and more companies as a Full Stack Web Developer Intern. <br>
+- 💻 **Developer at Heart**: Passionate about building scalable web applications and exploring the endless possibilities of **MERN Stack Development**.  
+- 🧠 **DSA Enthusiast**: I thrive on solving challenging problems on platforms like **LeetCode** and **GeeksforGeeks** (1000+ problems and counting!).  
+- 💡 **Hackathon Explorer**: Always excited to collaborate, innovate, and create during **hackathons**.  
+- 🌐 **Open-Source Contributor**: Actively contributing to **open-source organizations**, fixing bugs, building new features, and collaborating with developers worldwide. Proud participant in events like **Hacktoberfest** and programs such as **Social Winter of Code** and **GirlScript Summer of Code**.  
+
+## ✨ What Drives Me  
+
+I'm passionate about innovation, collaboration, and continuously improving my skills while contributing to projects that make a real-world impact. 🚀  
+
 
 
 

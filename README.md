@@ -13,7 +13,7 @@
 # My Stack
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,postgres,mongodb,tailwindcss,tauri,redux,redis,docker,aws,cloudflare,vercel" alt="TypeScript, React, Next.js, TailwindCSS, Tauri, AWS, Cloudflare, Vercel">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,expressjs,postgres,mongodb,tailwindcss,redux,redis,docker,aws,cloudflare,vercel" alt="TypeScript, React, Next.js, TailwindCSS, Tauri, AWS, Cloudflare, Vercel">
   </a>
 </p>
 

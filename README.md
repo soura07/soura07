@@ -10,6 +10,12 @@
   </a>
 </p>
 
+# My Stack
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,postgres,mongodb,tailwindcss,tauri,redux,redis,docker,aws,cloudflare,vercel" alt="TypeScript, React, Next.js, TailwindCSS, Tauri, AWS, Cloudflare, Vercel">
+  </a>
+</p>
 
 # 🌟 About Me 🌟  
 
@@ -29,40 +35,18 @@ I'm passionate about innovation, collaboration, and continuously improving my sk
 
 
 
-〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰
-
+〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰
 <!--# 🌐 Socials and Coding Profiles: -->
-# 🌐 Coding Profiles :
+<!-- # 🌐 Coding Profiles : -->
 
-<p align="left">
+<!-- <p align="left">
 <!-- <a href="https://twitter.com/Souradeep_2003_" target="blank"><img align="center" src="https://img.freepik.com/premium-vector/new-twitter-logo-x-2023-twitter-x-logo-vector-download_691560-10809.jpg" alt="https://twitter.com/souradeep_2003_" height="30" width="25" /></a> -->
 <!-- <a href="https://www.linkedin.com/in/souradeep-ghosh-41b8b5228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[https://www.linkedin.com/in/souradeep-ghosh-41b8b5228/](https://www.linkedin.com/in/souradeep-ghosh-41b8b5228/)" height="30" width="40" /></a> -->
-<a href="https://www.hackerrank.com/nitsouradeep2022?hr_r=1" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="[https://www.linkedin.com/in/souradeep-ghosh-41b8b5228/](https://www.linkedin.com/in/souradeep-ghosh-41b8b5228/)" height="40" width="40" /></a>
+<!-- <a href="https://www.hackerrank.com/nitsouradeep2022?hr_r=1" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="[https://www.linkedin.com/in/souradeep-ghosh-41b8b5228/](https://www.linkedin.com/in/souradeep-ghosh-41b8b5228/)" height="40" width="40" /></a>
 <a href="https://leetcode.com/souradeep_ghosh/" target="blank"><img align="center" src="https://www.leetcode.kz/static/leetcode-logo.png" alt="[https://www.linkedin.com/in/souradeep-ghosh-41b8b5228/](https://www.linkedin.com/in/souradeep-ghosh-41b8b5228/)"  width="30" /></a> 
- <a href="https://auth.geeksforgeeks.org/user/souradeep_4n4/practice" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" alt="[https://www.linkedin.com/in/souradeep-ghosh-41b8b5228/](https://www.linkedin.com/in/souradeep-ghosh-41b8b5228/)"  width="30" /></a>
+ <a href="https://auth.geeksforgeeks.org/user/souradeep_4n4/practice" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" alt="[https://www.linkedin.com/in/souradeep-ghosh-41b8b5228/](https://www.linkedin.com/in/souradeep-ghosh-41b8b5228/)"  width="30" /></a> -->
 
 
-
-<p>
-
-
-
-
-
-
-# Tools I Used Most💻 :
-[![My Skills](https://skillicons.dev/icons?i=py,gcp,c,cpp,nodejs,html,css,js,git,github,vscode)](https://skillicons.dev)
-
-
-
-# Database 🏠:
-
-
-<img align="left" alt="html" width="40px" src="https://images.crunchbase.com/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/erkxwhl1gd48xfhe2yld" />
-<img align="left" alt="html" width="50px" src="https://res.cloudinary.com/hevo/image/upload/f_auto,q_auto/v1685922408/hevo-learn-1/tableau-oracle-connection-2.png?_i=AA" />
-
-<br>
-<br>
 
 
 <!--  

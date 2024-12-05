@@ -10,7 +10,7 @@
   </a>
 </p>
 
-# My Stack
+# My Stack 🌏
 <p align="center">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,expressjs,postgres,mongodb,tailwindcss,redux,redis,docker,aws,cloudflare,vercel" alt="TypeScript, React, Next.js, TailwindCSS, Tauri, AWS, Cloudflare, Vercel">

@@ -23,7 +23,7 @@
 
 ## ✨ What I Do  
 
-- 💻 **Developer at Heart**: Passionate about building scalable web applications and exploring the endless possibilities of **MERN Stack Development**.  
+- 💻 **Developer**: Passionate about building scalable web applications and exploring the endless possibilities of **MERN Stack Development**.  
 - 🧠 **DSA Enthusiast**: I thrive on solving challenging problems on platforms like **LeetCode** and **GeeksforGeeks** (1000+ problems and counting!).  
 - 💡 **Hackathon Explorer**: Always excited to collaborate, innovate, and create during **hackathons**.  
 - 🌐 **Open-Source Contributor**: Actively contributing to **open-source organizations**, fixing bugs, building new features, and collaborating with developers worldwide. Proud participant in events like **Hacktoberfest** and programs such as **Social Winter of Code** and **GirlScript Summer of Code**.  

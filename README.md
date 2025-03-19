@@ -57,20 +57,12 @@ I'm passionate about innovation, collaboration, and continuously improving my sk
   </a>
 </div>
 -->
-# 📊 GitHub Stats
-
-[![souradeep20's GitHub | Stats](https://stats.quine.sh/souradeep20/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=souradeep20)
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soura07&theme=algolia)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=soura07&bg_color=001166&color=66fff5&line=00bfff&point=00fbff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&pause=1000&color=1581F7&random=false&width=435&lines=Thanks+for+Visiting+%E2%9D%A4%EF%B8%8F%F0%9F%AB%B6;Visit+Again+%F0%9F%A4%9E%F0%9F%98%89" alt="Typing SVG"" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=EE0BB4&width=435&lines=Thank+You+Visit+Again+" alt="Typing SVG" alt="Typing SVG"" />
   </a>
 </p>
 

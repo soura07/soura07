@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/938010ca-613f-48c4-971b-82d7995e0eb7" width="800">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="700">
 </p>
 
 
@@ -40,7 +40,7 @@ I'm passionate about innovation, collaboration, and continuously improving my sk
 
 
 
-〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰
+
 <!--# 🌐 Socials and Coding Profiles: -->
 <!-- # 🌐 Coding Profiles : -->
 
@@ -63,6 +63,13 @@ I'm passionate about innovation, collaboration, and continuously improving my sk
 </div>
 -->
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif" width="200">
+</p>
+
+
+
+
 
 
 <p align="center">
@@ -71,5 +78,3 @@ I'm passionate about innovation, collaboration, and continuously improving my sk
   </a>
 </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-[![An image of @unicornjohn's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/unicornjohn)](https://holopin.io/@unicornjohn)

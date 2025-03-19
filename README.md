@@ -1,4 +1,9 @@
-![SOURADEEP GHOSH ()](https://github.com/user-attachments/assets/fe30a738-3702-4ee1-a6de-a199d2d4b729)
+
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/938010ca-613f-48c4-971b-82d7995e0eb7" width="800">
+</p>
 
 
 

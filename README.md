@@ -27,7 +27,7 @@
 
 ## 🔹 Career Highlights
 
-Hi, I'm **Souradeep** — a **Software Development Engineer** at a **US-based 🇺🇸 startup** and   **Completed Bachelor of Technology in Electronics and Communication Engineering in 2025** from Kolkata, West Bengal, India 🇮🇳
+Hi, I'm **Souradeep** — a **Cloud & AI Engineer** at a **US-based 🇺🇸 startup** and   **Completed Bachelor of Technology in Electronics and Communication Engineering in 2025** from Kolkata, West Bengal, India 🇮🇳
 
 
 ## 🔹 Tech Journey So Far  

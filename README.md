@@ -2,14 +2,14 @@
 <h3 align="center">Cloud & AI Engineer | Serverless Backend | AI-driven Systems</h3>
 
 <p align="center">
-  <a href="https://souradeep.xyz">🌐souradeep.xyz</a> •
+  <a href="https://souradeep.xyz">souradeep.xyz</a> •
   <a href="https://www.linkedin.com/in/souradeep07/">LinkedIn</a> •
   <a href="mailto:souradeepg48@gmail.com">Email</a>
 </p>
 
 ---
 
-## 🚀 About Me
+##  ❇️ About Me
 
 I’m **Souradeep**, a **Cloud & AI Engineer** currently working at **Cloudain LLC**, a **US-based 🇺🇸 startup**, where I focus on building **scalable, secure, and AI-powered cloud-native systems**.
 
@@ -19,7 +19,7 @@ I enjoy designing systems that are **highly available, low-latency, and producti
 
 ---
 
-## 💼 Current Role
+## ❇️ Current Role
 
 **Cloud & AI Engineer – Backend Development**  
 📍 Cloudain · Fontana, California, United States (Remote)
@@ -31,7 +31,7 @@ I enjoy designing systems that are **highly available, low-latency, and producti
 
 ---
 
-## 🛠️ Skills & Tech Stack
+## ❇️ Skills & Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,astro,aws,azure,postgres,graphql,terraform,dynamodb,mongodb,tailwind,redux,docker,kubernetes,cloudflare,supabase,gitlab,git&perline=7" />
@@ -59,4 +59,4 @@ I enjoy designing systems that are **highly available, low-latency, and producti
 
 ---
 
-⭐ *Building cloud-native systems that scale with confidence.*
+ *Building cloud-native systems that scale with confidence.*

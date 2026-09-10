@@ -22,7 +22,7 @@ I enjoy designing systems that are **highly available, low-latency, and producti
 ## ❇️ Current Role
 
 **Cloud & AI Engineer – Backend Development**  
-📍 Cloudain · Fontana, California, United States (Remote)
+📍 Cloudain · India (Remote)
 
 - Building backend services using **AWS Lambda, API Gateway, and DynamoDB**
 - Developing **Agentic AI Chatbots** with **AWS Lex** for intelligent automation

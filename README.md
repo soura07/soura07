@@ -2,7 +2,7 @@
 <h3 align="center">Cloud & AI Engineer | Serverless Backend | AI-driven Systems</h3>
 
 <p align="center">
-  <a href="https://souradeep.xyz">souradeep.xyz</a> •
+  <a href="https://souradeep-tech.netlify.app/">souradeep.portfolio</a> •
   <a href="https://www.linkedin.com/in/souradeep07/">LinkedIn</a> •
   <a href="mailto:souradeepg48@gmail.com">Email</a>
 </p>

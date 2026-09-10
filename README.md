@@ -11,7 +11,7 @@
 
 ##  ❇️ About Me
 
-I’m **Souradeep**, a **Cloud & AI Engineer** currently working at **Cloudain LLC**, a **US-based 🇺🇸 startup**, where I focus on building **scalable, secure, and AI-powered cloud-native systems**.
+I’m **Souradeep**, a **Cloud & AI Engineer** currently working at **Cloudain**, a **US-based 🇺🇸 startup**, where I focus on building **scalable, secure, and AI-powered cloud-native systems**.
 
 My work revolves around **serverless backend development**, **event-driven architectures**, and **agentic AI systems** that power SaaS platforms and intelligent contact center solutions.
 
